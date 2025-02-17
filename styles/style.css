@@ -205,10 +205,9 @@ h1, h2, h3, h4, h5, h6, p, ul, ol, blockquote {
     gap: 16px;
 }
 
-/*.footer__links-item_link {
+.footer__links-item_link {
     font-size: 14px;
     line-height: 125%;
     color: rgb(245, 245, 245);
     text-decoration: none;
 }
-*/
